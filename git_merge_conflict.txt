@@ -1,0 +1,7 @@
+evy@econ2-199-19-edu lab-2-git-recitation-012-team-08 % git merge main
+Auto-merging main.cpp
+CONFLICT (content): Merge conflict in main.cpp
+Automatic merge failed; fix conflicts and then commit the result.
+evy@econ2-199-19-edu lab-2-git-recitation-012-team-08 % git add main.cpp
+evy@econ2-199-19-edu lab-2-git-recitation-012-team-08 % git commit -m "Merging changes with return value 1"               
+[Evy 9ab4fb0] Merging changes with return value 1
