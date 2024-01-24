@@ -20,3 +20,10 @@ git add submission
 git commit -m "added submission files"
 git push
 ```
+
+## Lab2-ShellScripting&Git
+
+NO  | FIRSTNAME    | LASTNAME    | GITHUB_PROFILE
+--- | ---          | ---         | ---
+1   | Evy          | Ng          | evy004
+2   | Robby        | Toomey      | robbytoomey13
