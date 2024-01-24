@@ -1,0 +1,14 @@
+robby@econ2-194-72-dhcp lab-2-git-recitation-012-team-08 % git merge main
+Auto-merging main.cpp
+CONFLICT (content): Merge conflict in main.cpp
+Automatic merge failed; fix conflicts and then commit the result.
+robby@econ2-194-72-dhcp lab-2-git-recitation-012-team-08 % git add main.cpp
+robby@econ2-194-72-dhcp lab-2-git-recitation-012-team-08 % git commit -m "Merging changes with return value 3"
+[Robby 866d5aa] Merging changes with return value 3
+robby@econ2-194-72-dhcp lab-2-git-recitation-012-team-08 % git push
+Enumerating objects: 1, done.
+Counting objects: 100% (1/1), done.
+Writing objects: 100% (1/1), 235 bytes | 235.00 KiB/s, done.
+Total 1 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/evy004/lab-2-git-recitation-012-team-08.git
+   d07324b..866d5aa  Robby -> Robby
